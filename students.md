@@ -71,8 +71,6 @@ Chinwendum Njoku is an Undergraduate of Boise State University majoring in Compu
 
 * * *
 
-<img src="/assets/img/Anna.jpeg" width="200" alt="Anna Rift" />
-
 #### [Anna Rift](https://riftEmber.com)
 
 Anna (they/them) is a senior majoring in Computer Science and Mathematics at Boise State University. They are currently working on the ChiLL-I/E project.
